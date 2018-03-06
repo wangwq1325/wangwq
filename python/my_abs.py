@@ -5,8 +5,6 @@ def my_abs(x):
         return x
     else:
         return -x
-#b = -9
-#print "b = ", my_abs(b)
 
 
 

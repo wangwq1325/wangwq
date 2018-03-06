@@ -2,7 +2,5 @@
 #-*- coding:utf-8 -*-
 
 from my_abs import my_abs
-c = -2
-print "b = ",my_abs(c)
-
-
+d = 9
+print "c = ", my_abs(d)
